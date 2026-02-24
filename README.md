@@ -42,9 +42,11 @@
 - gráficos 
 - regras condicionais
 - vinculações
+  
+🔗 [Acessar o Projeto no GitHub](https://github.com/LeonardoZaparolli1/FLUXO-DE-CAIXA-EMPRESARIAL)
 
 ## 📈 Estatísticas GitHub
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoZaparolli1&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LeonardoZaparolli1&show_icons=true&theme=tokyonight)
 
 ## 📫 Contato:
 - LinkedIn: https://www.linkedin.com/in/leonardo-zaparolli-/

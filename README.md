@@ -34,6 +34,8 @@
 - DAX básico  
 - Visualização executiva
 
+ 🔗 [Acessar o Projeto no GitHub](https://github.com/LeonardoZaparolli1/ANALISE-DE-VENDAS-MULTI-STACK)
+
 📊 Fluxo de Caixa - Excel
 - cadastros de produtos e vendedores
 - relatórios
